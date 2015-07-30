@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+findtoolbar_find_in=2
+org.eclipse.egit.ui.githistorypage.showallfilter=SHOWALLRESOURCE
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
+resourcehistory_show_findtoolbar=true
