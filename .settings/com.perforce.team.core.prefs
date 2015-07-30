@@ -1,2 +1,0 @@
-com.perforce.team.core.p4java.P4_CONNECTIONS=P4PORT macmini.bbpd.io\\c1667 P4CLIENT dlin_P4 P4USER dlin P4CHARSET none SAVEPASS false OFFLINE false \:P4PORT nitrogen.pd.local\\c1666 P4CLIENT dlin_P4 P4USER dlin P4CHARSET none SAVEPASS false OFFLINE false 
-eclipse.preferences.version=1
